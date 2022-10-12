@@ -1,5 +1,6 @@
-# nikkehtine (Nikki)
+# nikkehtine
 
+- 🤗 Nickname: Nikki, real name: `[REDACTED]`
 - 🦊 I use GitHub for contribution, I host [my own projects on GitLab](https://gitlab.com/nikkehtine)
 - 🗺 Based in Poland 🇵🇱
 - 🕔 Timezone: **UTC+2**
