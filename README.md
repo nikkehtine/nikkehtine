@@ -9,7 +9,7 @@
   - 🔐 protecting human rights and privacy
   - 🌐 learning new things and self-betterment
 - 🗺 Based in Poland 🇵🇱
-- 🕔 Timezone: **UTC+2**
+- 🕔 Timezone: **UTC+1**
 - 🔭 I’m currently working on [a notebook web-app](https://gitlab.com/nikkehtine/js-notes-app)
 - 🌱 I’m currently learning **web development**, **JavaScript** and **Kotlin**
 - 👯 I’m looking to collaborate on projects that are useful
