@@ -1,6 +1,5 @@
 # nikkehtine
 
-- 🤗 Nickname: Nikki, real name: `[REDACTED]`
 - 🦊 I use GitHub for contribution, I host [my own projects on GitLab](https://gitlab.com/nikkehtine)
 - 🤩 My goals are:
   - 🤵 designing elegant, easy to use and functional UIs
