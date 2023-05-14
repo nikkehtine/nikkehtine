@@ -4,20 +4,24 @@
 
 [![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkehtine&show_icons=true&hide=stars,contribs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Basic information
 
 - 💼 Currently working for [**eStoreLabs**](https://www.estorelabs.com) as a **junior front-end developer**
-- 🦊 I use GitHub for contribution, I host [my own projects on GitLab](https://gitlab.com/nikkehtine)
+- 🤝 I use GitHub mostly for contribution - most of [my own projects reside on 🦊**GitLab**](https://gitlab.com/nikkehtine)
 - 🤩 My goals are:
   - 🤵 designing elegant, easy to use and functional UIs
   - 🏢 writing efficient, elegant, maintainable and scalable code
   - 🤝 creating accessible technologies
   - 🔐 protecting human rights and privacy
   - 🌐 learning new things and self-betterment
+- 📫 How to reach me: **nikkehtine📧int.pl** (my business email)
 
 ## Languages and tools
 
 <table>
+<caption>This is what I use:</caption>
 <thead>
   <tr>
     <th>Professionally</th>
@@ -66,11 +70,17 @@
     </td>
   </tr>
 </tbody>
-<caption>This is what I use:</caption>
 </table>
 
-- 🔭 I’m currently working on [a notebook web-app](https://gitlab.com/nikkehtine/js-notes-app)
-- 🌱 I’m currently learning **web development**, **JavaScript** and **Go**
-- 👯 I’m looking to collaborate on projects that are useful
-- 📫 How to reach me: **nikkehtine📧int.pl** (my business email)
-- 🎵 Here is my [Last.fm profile](https://www.last.fm/user/nikkehtine)
+## Currently working on:
+
+| Building:                                                                               | Learning:                                                                                                        |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [:notebook: a notebook web-app](https://gitlab.com/nikkehtine/js-notes-app)             | :globe_with_meridians: **web development** on [freeCodeCamp](https://www.freecodecamp.org/nikkehtine)            |
+| [:chart_with_upwards_trend: a mock business webpage](https://gitlab.com/nikkehtine/xzc) | :computer: **JavaScript** and **Go** on [Exercism](https://exercism.org/profiles/nikkehtine)                     |
+|                                                                                         | :office_worker: **front-end development** on [Frontend Mentor](https://www.frontendmentor.io/profile/nikkehtine) |
+
+## Extra
+
+- [🎵Last.fm](https://www.last.fm/user/nikkehtine)
+- [🌩Volt.fm](https://volt.fm/nikkehtine)
