@@ -4,12 +4,12 @@
 
 [![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkehtine&show_icons=true&hide=stars,contribs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Basic information
 
 - 💼 Currently working for [**eStoreLabs**](https://www.estorelabs.com) as a **junior front-end developer**
-- 🤝 I use GitHub mostly for contribution - most of [my own projects reside on 🦊**GitLab**](https://gitlab.com/nikkehtine)
+- :fox_face: I use GitHub mostly for contribution - most of [my own projects reside on <img height="14px" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> **GitLab**](https://gitlab.com/nikkehtine)
 - 🤩 My goals are:
   - 🤵 designing elegant, easy to use and functional UIs
   - 🏢 writing efficient, elegant, maintainable and scalable code
@@ -44,6 +44,7 @@
       <img height="40px" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
       <img height="40px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
       <img height="40px" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+      <img height="40px" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
       <img height="40px" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
       <img height="40px" alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
       <img height="40px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -74,13 +75,20 @@
 
 ## Currently working on:
 
-| Building:                                                                               | Learning:                                                                                                        |
-| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [:notebook: a notebook web-app](https://gitlab.com/nikkehtine/js-notes-app)             | :globe_with_meridians: **web development** on [freeCodeCamp](https://www.freecodecamp.org/nikkehtine)            |
-| [:chart_with_upwards_trend: a mock business webpage](https://gitlab.com/nikkehtine/xzc) | :computer: **JavaScript** and **Go** on [Exercism](https://exercism.org/profiles/nikkehtine)                     |
-|                                                                                         | :office_worker: **front-end development** on [Frontend Mentor](https://www.frontendmentor.io/profile/nikkehtine) |
+| Building:                                                                                | Learning:                                           |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| :notebook: [a notebook web-app](https://gitlab.com/nikkehtine/js-notes-app)              | :globe_with_meridians: **web development**          |
+| :chart_with_upwards_trend: [ a mock business webpage](https://gitlab.com/nikkehtine/xzc) | :computer: programming in **JavaScript** and **Go** |
 
-## Extra
+## Links
+
+### :desktop_computer: Dev
+
+- [freeCodeCamp](https://www.freecodecamp.org/nikkehtine)
+- [Exercism](https://exercism.org/profiles/nikkehtine)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/nikkehtine)
+
+### :heart: Extra
 
 - [🎵Last.fm](https://www.last.fm/user/nikkehtine)
 - [🌩Volt.fm](https://volt.fm/nikkehtine)
