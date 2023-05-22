@@ -89,7 +89,7 @@
 - [freeCodeCamp](https://www.freecodecamp.org/nikkehtine)
 - [Exercism](https://exercism.org/profiles/nikkehtine)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/nikkehtine)
-- [DataCamp](https://app.datacamp.com/profile/nikkehtine)
+- [Sololearn](https://www.sololearn.com/profile/12795719)
 
 ### :heart: Extra
 
