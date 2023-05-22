@@ -73,6 +73,8 @@
 </tbody>
 </table>
 
+[SoloLearn HTML Certificate](https://www.sololearn.com/certificates/CT-XCYQZAN7)
+
 ## Currently working on:
 
 | Building:                                                                                | Learning:                                           |
