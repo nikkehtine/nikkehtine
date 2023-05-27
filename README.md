@@ -2,10 +2,6 @@
 
 **Front-end web developer based in Poland**
 
-[![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikkehtine&show_icons=true&hide=stars,contribs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ## Basic information
 
 - 💼 Currently working for [**eStoreLabs**](https://www.estorelabs.com) as a **junior front-end developer**
