@@ -4,7 +4,6 @@
 
 ## Basic information
 
-- 💼 Currently working for [**eStoreLabs**](https://www.estorelabs.com) as a **junior front-end developer**
 - :fox_face: I use GitHub mostly for contribution - most of [my own projects reside on <img height="14px" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> **GitLab**](https://gitlab.com/nikkehtine)
 - 🤩 My goals are:
   - 🤵 designing elegant, easy to use and functional UIs
