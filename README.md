@@ -1,10 +1,10 @@
 # nikkehtine
 
-**Front-end web developer based in Poland**
+**Freelancer, web developer, open source enthusiast, Go enjoyer, wannabe data scientist, feline wrangler; based in Poland**
 
 ## Basic information
 
-- :fox_face: Most of [my own projects reside on <img height="14px" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> **GitLab**](https://gitlab.com/nikkehtine) - I use GitHub mostly for contribution
+- 🦊 Most of [my own projects reside on <img height="14px" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> **GitLab**](https://gitlab.com/nikkehtine) - I use GitHub mostly for contribution
   - 🪞 Many repositories here are mirrors of my GitLab repos that sync at an interval - just replace "hub" with "lab" in the repo's URL to arrive at the original repo
 - 🤩 My goals are:
   - 🤵 designing elegant, easy to use and functional UIs
@@ -67,8 +67,6 @@
 </tbody>
 </table>
 
-[SoloLearn HTML Certificate](https://www.sololearn.com/certificates/CT-XCYQZAN7)
-
 ## Currently working on:
 
 - [passgen](https://github.com/nikkehtine/passgen) <img height="16px" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> - a cli password generator and checker
@@ -87,5 +85,6 @@
 
 ### :heart: Extra
 
+- [☕Ko-fi](https://ko-fi.com/nikkehtine)
 - [🎵Last.fm](https://www.last.fm/user/nikkehtine)
 - [🌩Volt.fm](https://volt.fm/nikkehtine)
