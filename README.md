@@ -4,7 +4,8 @@
 
 ## Basic information
 
-- :fox_face: I use GitHub mostly for contribution - most of [my own projects reside on <img height="14px" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> **GitLab**](https://gitlab.com/nikkehtine)
+- :fox_face: Most of [my own projects reside on <img height="14px" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> **GitLab**](https://gitlab.com/nikkehtine) - I use GitHub mostly for contribution
+  - 🪞 Many repositories here are mirrors of my GitLab repos that sync at an interval - just replace "hub" with "lab" in the repo's URL to arrive at the original repo
 - 🤩 My goals are:
   - 🤵 designing elegant, easy to use and functional UIs
   - 🏢 writing efficient, elegant, maintainable and scalable code
@@ -12,6 +13,8 @@
   - 🔐 protecting human rights and privacy
   - 🌐 learning new things and self-betterment
 - 📫 How to reach me: **nikkehtine📧int.pl** (my business email)
+
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&layout=donut&theme=github_dark_dimmed&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and tools
 
@@ -40,26 +43,24 @@
     </td>
     <td>
       <img height="24px" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-      <img height="24px" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+      <img height="24px" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
       <img height="24px" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
       <img height="24px" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
       <img height="24px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     </td>
     <td>
-      <img height="24px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img height="24px" alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img height="24px" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+      <img height="24px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img height="24px" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
       <img height="24px" alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-      <img height="24px" alt="Godot Engine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+      <img height="24px" alt="Godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
     </td>
     <td>
+      <img height="24px" alt="Julia" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
       <img height="24px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <img height="24px" alt="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
       <img height="24px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <img height="24px" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-      <img height="24px" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-      <img height="24px" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-      <img height="24px" alt="Scala" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
       <img height="24px" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
     </td>
   </tr>
@@ -70,10 +71,10 @@
 
 ## Currently working on:
 
-| Building:                                                                                | Learning:                                           |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| :notebook: [a notebook web-app](https://gitlab.com/nikkehtine/js-notes-app)              | :globe_with_meridians: **web development**          |
-| :chart_with_upwards_trend: [ a mock business webpage](https://gitlab.com/nikkehtine/xzc) | :computer: programming in **JavaScript** and **Go** |
+- [passgen](https://github.com/nikkehtine/passgen) <img height="16px" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> - a cli password generator and checker
+- [hydrogen](https://github.com/nikkehtine/hydrogen) <img height="16px" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> - a makeshift programming language compiler following a C++ tutorial
+- [ProjectEuler](https://github.com/nikkehtine/ProjectEuler) <img height="16px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> - a set of math problems from [Project Euler](https://projecteuler.net)
+- [dev-notes](https://github.com/nikkehtine/dev-notes) <img height="16px" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> - a collection of notes I've made during my software development journey
 
 ## Links
 
