@@ -1,11 +1,11 @@
 # nikkehtine
 
-**Freelancer, web developer, open source enthusiast, Go enjoyer, wannabe data scientist, feline wrangler; based in Poland**
+**Freelancer, web developer, open source enthusiast, Go enjoyer, wannabe data scientist, feline wrangler, based in Poland**
 
 ## Basic information
 
 - 🦊 Most of [my own projects reside on <img height="14px" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> **GitLab**](https://gitlab.com/nikkehtine) - I use GitHub mostly for contribution
-  - 🪞 Many repositories here are mirrors of my GitLab repos that sync at an interval - just replace "hub" with "lab" in the repo's URL to arrive at the original repo
+  - 🪞 Most repositories here are mirrors of my GitLab repos that sync at an interval - just replace "hub" with "lab" in the repo's URL to arrive at the original repo
 - 🤩 My goals are:
   - 🤵 designing elegant, easy to use and functional UIs
   - 🏢 writing efficient, elegant, maintainable and scalable code
@@ -14,7 +14,7 @@
   - 🌐 learning new things and self-betterment
 - 📫 How to reach me: **nikkehtine📧int.pl** (my business email)
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&layout=donut&theme=github_dark_dimmed&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+## [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&layout=donut&theme=github_dark_dimmed&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and tools
 
@@ -22,10 +22,10 @@
 <caption>This is what I use:</caption>
 <thead>
   <tr>
-    <th>Professionally</th>
-    <th>Passionately</th>
-    <th>Learning</th>
-    <th>Planning to learn/use</th>
+    <th>Passionately (quite proficient)</th>
+    <th>Occasionally (decent)</th>
+    <th>Learning (new)</th>
+    <th>Planning to learn</th>
   </tr>
 </thead>
 <tbody>
@@ -33,28 +33,28 @@
     <td>
       <img height="24px" alt="HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
       <img height="24px" alt="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-      <img height="24px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img height="22px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       <img height="24px" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img height="24px" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
       <img height="24px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-      <img height="24px" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-      <img height="24px" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-      <img height="24px" alt="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-      <img height="24px" alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-    </td>
-    <td>
       <img height="24px" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+      <img height="24px" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
       <img height="24px" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
       <img height="24px" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-      <img height="24px" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      <img height="24px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     </td>
     <td>
-      <img height="24px" alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-      <img height="24px" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
       <img height="24px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      <img height="24px" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+      <img height="22px" alt="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+      <img height="22px" alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+      <img height="24px" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    </td>
+    <td>
+      <img height="24px" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+      <img height="24px" alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+      <img height="22px" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
       <img height="24px" alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
       <img height="24px" alt="Godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+      <img height="22px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     </td>
     <td>
       <img height="24px" alt="Julia" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
