@@ -84,9 +84,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&theme=default&layout=compact&langs_count=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&theme=github_dark&layout=compact&langs_count=6">
-    <img style="display: block; margin-inline: auto; width: 340px;"  alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&layout=compact&langs_count=6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&theme=github_dark_dimmed&layout=compact&langs_count=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&theme=default&layout=compact&langs_count=6">
+    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&layout=compact&langs_count=6">
   </picture>
 </a>
 
