@@ -1,23 +1,36 @@
 # nikkehtine
 
-**Freelancer, web developer, open source enthusiast, Go enjoyer, wannabe data scientist, feline wrangler, based in Poland**
+```javascript
+{
+  "Freelancer",
+  "Web developer",
+  "Open source enthusiast",
+  "Go and TypeScript enjoyer",
+  "Wannabe data scientist",
+  "Feline wrangler",
+}
+```
 
 ## Basic information
 
 -   😍 My preferred technologies:
-    -   Go
-    -   JavaScript (vanilla)
-    -   HTML & CSS (vanilla)
-    -   HTMX
+
+    -   <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+        vanilla HTML, CSS and JavaScript
+    -   <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+        Go, its HTTP server and HTML templates
+    -   <img width="16px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        TypeScript
+    -   <img width="16px" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+        Markdown for documentation and notes
+
 -   🤩 My goals are:
+
     -   🤵 designing elegant, easy to use and functional UIs
     -   🏢 writing efficient, elegant, maintainable and scalable code
     -   🤝 creating accessible technologies
     -   🔐 protecting human rights and privacy
     -   🌐 learning new things and self-betterment
--   📫 How to reach me: **nikkehtine📧int.pl** (my business email)
-
-## [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&layout=donut&theme=github_dark_dimmed&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and tools
 
@@ -37,12 +50,12 @@
       <img height="24px" alt="HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
       <img height="24px" alt="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
       <img height="22px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img height="24px" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
       <img height="24px" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
       <img height="24px" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
       <img height="24px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
       <img height="24px" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
       <img height="24px" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-      <img height="24px" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
       <img height="24px" alt="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     </td>
     <td>
@@ -53,6 +66,7 @@
     </td>
     <td>
       <img height="24px" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+      <img height="24px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img height="24px" alt="Julia" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
       <img height="22px" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
       <img height="24px" alt="Godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
@@ -62,12 +76,19 @@
       <img height="24px" alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img height="24px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <img height="24px" alt="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-      <img height="24px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img height="24px" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
     </td>
   </tr>
 </tbody>
 </table>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&theme=default&layout=compact&langs_count=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&theme=github_dark&layout=compact&langs_count=6">
+    <img style="display: block; margin-inline: auto; width: 340px;"  alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&layout=compact&langs_count=6">
+  </picture>
+</a>
 
 ## Currently working on:
 
@@ -76,7 +97,7 @@
     <img height="16px" alt="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
     <img height="14px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img height="16px" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> -
-    repo for small frontend-related projects, where I try random stuff, served to you with Go and HTMX
+    repo for small frontend-related projects, where I try random stuff, served to you with Go
 -   [hydrogen](https://github.com/nikkehtine/hydrogen) <img height="16px" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> - a makeshift programming language compiler following a C++ tutorial
 -   [ProjectEuler](https://github.com/nikkehtine/ProjectEuler) - a set of math problems from [Project Euler](https://projecteuler.net)
 -   [dev-notes](https://github.com/nikkehtine/dev-notes) <img height="16px" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> - a collection of notes I've made during my software development journey
