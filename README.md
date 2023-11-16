@@ -62,12 +62,14 @@
       <img height="22px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img height="24px" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
       <img height="24px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img height="24px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       <img height="22px" alt="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
       <img height="22px" alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
       <img height="24px" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     </td>
     <td>
       <img height="24px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      <img height="24px" alt="Next JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
       <img height="24px" alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img height="24px" alt="Julia" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
       <img height="22px" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
@@ -77,6 +79,9 @@
     <td>
       <img height="24px" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
       <img height="24px" alt="Svelte" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+      <img height="24px" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+      <img height="24px" alt="Solid JS" src="https://www.solidjs.com/assets/logo-123b04bc.svg" />
+      <img height="24px" alt="Tauri" src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" />
     </td>
   </tr>
 </tbody>
@@ -89,18 +94,6 @@
     <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikkehtine&layout=compact&langs_count=6">
   </picture>
 </a>
-
-## Currently working on:
-
--   [WebDev Playground](https://github.com/nikkehtine/webdevplayground)
-    <img height="16px" alt="HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img height="16px" alt="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img height="14px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="16px" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> -
-    repo for small frontend-related projects, where I try random stuff, served to you with Go
--   [hydrogen](https://github.com/nikkehtine/hydrogen) <img height="16px" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> - a makeshift programming language compiler following a C++ tutorial
--   [ProjectEuler](https://github.com/nikkehtine/ProjectEuler) - a set of math problems from [Project Euler](https://projecteuler.net)
--   [dev-notes](https://github.com/nikkehtine/dev-notes) <img height="16px" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> - a collection of notes I've made during my software development journey
 
 ## Links
 
