@@ -38,7 +38,7 @@
 <caption>This is what I use:</caption>
 <thead>
   <tr>
-    <th>Often (quite proficient)</th>
+    <th>Often (decently proficient)</th>
     <th>Occasionally (decent)</th>
     <th>Learning (new)</th>
     <th>Planning to learn</th>
@@ -68,16 +68,16 @@
       <img height="24px" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     </td>
     <td>
+      <img height="25px" alt="Rust" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" />
       <img height="24px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
       <img height="24px" alt="Next JS" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" />
       <img height="24px" alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img height="24px" alt="Julia" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
       <img height="22px" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-      <img height="24px" alt="Godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
       <img height="22px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     </td>
     <td>
-      <img height="25px" alt="Rust" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" />
+      <img height="24px" alt="Godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
       <img height="25px" alt="Svelte" src="https://raw.githubusercontent.com/sveltejs/svelte/29052aba7d0b78316d3a52aef1d7ddd54fe6ca84/site/static/images/svelte-android-chrome-512.png" />
       <img height="24px" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
       <img height="24px" alt="Solid JS" src="https://www.solidjs.com/assets/logo-123b04bc.svg" />
