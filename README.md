@@ -2,11 +2,10 @@
 
 ```javascript
 {
-  "Freelancer",
   "Web developer",
   "Open source enthusiast",
-  "Go and TypeScript enjoyer",
-  "Wannabe data scientist",
+  "Enjoyer of Go, Rust, and TypeScript",
+  "Wannabe game developer after hours",
   "Feline wrangler",
 }
 ```
@@ -16,18 +15,18 @@
 -   😍 My preferred technologies:
 
     -   <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-        vanilla HTML, CSS and JavaScript
+        vanilla HTML, CSS and JavaScript (for smaller projects)
     -   <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-        Go, its HTTP server and HTML templates
+        Go (with its HTTP server and HTML templates)
     -   <img width="16px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-        TypeScript
+        TypeScript (any size)
     -   <img width="16px" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-        Markdown for documentation and notes
+        Markdown (for documentation and notes)
 
 -   🤩 My goals are:
 
     -   🤵 designing elegant, easy to use and functional UIs
-    -   🏢 writing efficient, elegant, maintainable and scalable code
+    -   🏢 writing efficient, maintainable and scalable code
     -   🤝 creating accessible technologies
     -   🔐 protecting human rights and privacy
     -   🌐 learning new things and self-betterment
