@@ -12,8 +12,7 @@
 
 ## Basic information
 
--   😍 My preferred technologies:
-
+-   😍 **My preferred technologies**:
     -   <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
         vanilla HTML, CSS and JavaScript (for smaller projects)
     -   <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
@@ -23,8 +22,7 @@
     -   <img width="16px" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
         Markdown (for documentation and notes)
 
--   🤩 My goals are:
-
+-   🤩 **My goals are**:
     -   🤵 designing elegant, easy to use and functional UIs
     -   🏢 writing efficient, maintainable and scalable code
     -   🤝 creating accessible technologies
@@ -37,9 +35,9 @@
 <caption>This is what I use:</caption>
 <thead>
   <tr>
-    <th>Often (decently proficient)</th>
-    <th>Occasionally (decent)</th>
-    <th>Learning (new)</th>
+    <th>Comfortably/professionally</th>
+    <th>Occasionally</th>
+    <th>Learning</th>
     <th>Planning to learn</th>
   </tr>
 </thead>
