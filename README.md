@@ -15,7 +15,7 @@
 }
 ```
 
-**Languages and tools**
+### Languages and tools
 
 <table>
 <tr>
@@ -75,8 +75,6 @@
   </picture>
 </a>
 
-<br />
-
-**Links**
+### Links
 
 [<img height="16px" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> GitLab](https://gitlab.com/nikkehtine) | [freeCodeCamp](https://www.freecodecamp.org/nikkehtine) | [Exercism](https://exercism.org/profiles/nikkehtine) | [Frontend Mentor](https://www.frontendmentor.io/profile/nikkehtine) | [Sololearn](https://www.sololearn.com/profile/12795719)
