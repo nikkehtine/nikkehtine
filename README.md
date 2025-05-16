@@ -2,16 +2,15 @@
 
 ```javascript
 {
-  👨‍💻: "Professional frontend web developer",
-  🤩: "Interested in programming and backend",
-  "My goals are": {
+  👨‍💻: "Professional web developer",
+  goals: {
     👨‍🎨: "designing elegant, easy to use and functional UIs",
     🏢: "writing efficient, elegant, maintainable and scalable code",
     🤝: "creating accessible technologies",
     🔐: "protecting human rights and privacy",
     🌐: "learning new things and self-betterment"
   },
-  "Best at": [
+  most_used: [
     TypeScript,
     Go,
     React,
@@ -21,7 +20,7 @@
 }
 ```
 
-### Languages and tools
+### :hammer_and_wrench: Languages and tools
 
 <table>
   <tr>
@@ -70,16 +69,6 @@
       />
       <img
         width="24px"
-        alt="Vue JS"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
-      />
-      <img
-        width="24px"
-        alt="Svelte"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg"
-      />
-      <img
-        width="24px"
         alt="HTML"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
       />
@@ -107,6 +96,16 @@
         width="24px"
         alt="Rust"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
+      />
+      <img
+        width="24px"
+        alt="Vue JS"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
+      />
+      <img
+        width="24px"
+        alt="Svelte"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg"
       />
       <img
         width="24px"
@@ -146,7 +145,7 @@
   </picture>
 </a>
 
-### Trophies
+### :trophy: Trophies
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <picture>
@@ -155,7 +154,7 @@
   </picture>
 </a>
 
-### Sponsoring
+### :heart: Sponsoring
 
 Projects I appreciate a lot to the point of donating monthly:
 
@@ -163,3 +162,4 @@ Projects I appreciate a lot to the point of donating monthly:
 - [Zen Browser](https://github.com/zen-browser/desktop)
 - [raylib](https://github.com/raysan5/raylib)
 - [ReVanced](https://github.com/ReVanced/revanced-manager)
+- [Hyprland](https://github.com/hyprwm/Hyprland)
