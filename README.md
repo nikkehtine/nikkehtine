@@ -160,6 +160,7 @@ Projects I appreciate a lot to the point of donating monthly:
 
 - [Godot Engine](https://github.com/godotengine/godot)
 - [Zen Browser](https://github.com/zen-browser/desktop)
+- [Ladybird Browser](https://github.com/LadybirdBrowser/ladybird)
 - [raylib](https://github.com/raysan5/raylib)
 - [ReVanced](https://github.com/ReVanced/revanced-manager)
 - [Hyprland](https://github.com/hyprwm/Hyprland)
