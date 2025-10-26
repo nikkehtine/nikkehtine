@@ -10,14 +10,14 @@
     🔐: "protecting privacy and human rights",
     🌐: "learning new things and self-betterment"
   },
-  most_used: {
+  most_used: [
     TypeScript,
     React,
     Svelte,
     Go,
     Rust,
     C
-  }
+  ]
 }
 ```
 
