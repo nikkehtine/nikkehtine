@@ -1,25 +1,10 @@
 # nikkehtine
 
-```javascript
-{
-  👨‍💻: "Professional web developer",
-  goals: {
-    👨‍🎨: "designing elegant, easy to use and functional UIs",
-    🏢: "writing efficient, elegant, maintainable and scalable code",
-    🤝: "creating accessible technologies",
-    🔐: "protecting privacy and human rights",
-    🌐: "learning new things and self-betterment"
-  },
-  most_used: [
-    TypeScript,
-    React,
-    Svelte,
-    Go,
-    Rust,
-    C
-  ]
-}
-```
+I make random things. Or at least try to.
+
+**What I use the most:** TypeScript, Rust, Svelte, Lua
+
+**What else I can work with:** Pretty much anything. Notably: React, Go, C, C#, Swift, Kotlin
 
 ### :trophy: Trophies
 
