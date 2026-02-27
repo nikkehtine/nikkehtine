@@ -18,7 +18,7 @@ I make random things. Or at least try to.
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-fork-two.vercel.app/?username=nikkehtine&theme=dark_dimmed&margin-w=4&margin-h=4&no-frame=true" />
-    <img alt="GitHub Trophies" src="https://github-profile-trophy-fork-two.vercel.app/?username=nikkehtine&margin-w=4&margin-h=4&no-frame=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-repo.vercel.app/?username=nikkehtine&theme=dark_dimmed&margin-w=4&margin-h=4&no-frame=true" />
+    <img alt="GitHub Trophies" src="https://github-profile-repo.vercel.app/?username=nikkehtine&margin-w=4&margin-h=4&no-frame=true" />
   </picture>
 </a>
