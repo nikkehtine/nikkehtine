@@ -2,9 +2,9 @@
 
 I make random things. Or at least try to.
 
-**What I use the most:** TypeScript, Rust, Svelte, Lua
+**What I use the most:** TypeScript, React, Svelte, Rust, Lua, Python
 
-**What else I can work with:** Pretty much anything. Notably: React, Go, C, C#, Swift, Kotlin
+**What else I can work with:** Pretty much anything, though mostly: Go, C, C#, Swift, Kotlin
 
 ### :trophy: Trophies
 
